@@ -1,0 +1,16 @@
+.container {
+    text-align: center;
+    margin: 60px 0;
+}
+.container h3 {
+    font-size: 3rem;
+    color: rgb(105, 105, 105);
+}
+.container div {
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-evenly;
+}
+.container img {
+    width: 300px;
+}

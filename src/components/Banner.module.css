@@ -1,0 +1,26 @@
+.banner {
+    width: 100%;
+    position: relative;
+}
+.banner img {
+    width: 100%;
+    
+}
+.banner h1 {
+    color: grey;
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    font-size: 3rem; 
+}
+.banner p {
+    position: absolute;
+    top: 190px;
+    left: 100px;
+    font-size: 2rem;
+    color: grey;
+}
+.banner span {
+    color: rgb(0, 145, 255);
+    font-weight: bold;
+}

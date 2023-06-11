@@ -1,0 +1,33 @@
+.header {
+    background-color: rgb(184, 183, 183);
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    width: 70px;
+    border-radius: 50%;
+    padding:10px 90px;
+    
+}
+.lists{
+    display: flex;
+    list-style: none;
+    padding-left: 60px;
+}
+.lists li {
+    margin-left: 40px;
+    font-size: 1.3rem;
+    color: rgb(251, 253, 255);
+    font-weight: bold;
+
+}
+.lists li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.lists li a:hover {
+    color: gray;
+}
